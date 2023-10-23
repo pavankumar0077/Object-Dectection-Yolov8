@@ -6,5 +6,5 @@ pip install ultralytics
 ```
 Run the application
 ```
-python yolo_predictor.py --source rtsp://192.168.138.119:8080/h264_ulaw.sdp
+python3 yolo_predictor.py --source rtsp://192.168.138.119:8080/h264_ulaw.sdp
 ```
